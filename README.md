@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/amitrax/leetcode-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/amitrax/leetcode-/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/amitrax/leetcode-/tree/main/0113-path-sum-ii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/amitrax/leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/amitrax/leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -17,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/amitrax/leetcode-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/amitrax/leetcode-/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/amitrax/leetcode-/tree/main/0113-path-sum-ii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/amitrax/leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/amitrax/leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -24,9 +26,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/amitrax/leetcode-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/amitrax/leetcode-/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/amitrax/leetcode-/tree/main/0113-path-sum-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/amitrax/leetcode-/tree/main/0113-path-sum-ii/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/amitrax/leetcode-/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->

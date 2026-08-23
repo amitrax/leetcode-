@@ -9,6 +9,7 @@
 | [0110-balanced-binary-tree](https://github.com/amitrax/leetcode-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/amitrax/leetcode-/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/amitrax/leetcode-/tree/main/0113-path-sum-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/amitrax/leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/amitrax/leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/amitrax/leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Search Tree
@@ -24,6 +25,7 @@
 | [0110-balanced-binary-tree](https://github.com/amitrax/leetcode-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/amitrax/leetcode-/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/amitrax/leetcode-/tree/main/0113-path-sum-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/amitrax/leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/amitrax/leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/amitrax/leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
@@ -32,6 +34,7 @@
 | [0110-balanced-binary-tree](https://github.com/amitrax/leetcode-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/amitrax/leetcode-/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/amitrax/leetcode-/tree/main/0113-path-sum-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/amitrax/leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/amitrax/leetcode-/tree/main/0112-path-sum/) | Easy |
+| [0226-invert-binary-tree](https://github.com/amitrax/leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -55,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/amitrax/leetcode-/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/amitrax/leetcode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amitrax/leetcode-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amitrax/leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amitrax/leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -76,6 +77,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/amitrax/leetcode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amitrax/leetcode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -85,4 +87,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amitrax/leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/amitrax/leetcode-/tree/main/0042-trapping-rain-water/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/amitrax/leetcode-/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/amitrax/leetcode-/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
